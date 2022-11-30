@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">Java Developer</h3>
+<h1 align="center">What's going on?! 👋 Josh here 👇</h1>
+<h3 align="center">Java Developer, content creator, fitness lover and wanderlust</h3>
 
-🔭 Currently working on Spring boot and working 👨‍💻 on amazing UI!
+🔭 Currently learning Spring boot 🍃 and working 🧑‍💻 on amazing UI! ⚛️
 
-<img align="right" alt="image" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
+<img align="right" alt="image" width="200" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qajosep&label=Profile%20views&color=0e75b6&style=flat" alt="qajosep" /> </p>
 

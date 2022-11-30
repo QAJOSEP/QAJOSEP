@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Java Developer</h3>
 
-<img align="center" alt="image" width="400" src="
+<img align="center" alt="image" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qajosep&label=Profile%20views&color=0e75b6&style=flat" alt="qajosep" /> </p>
 

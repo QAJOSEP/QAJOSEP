@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy José 👇</h1>
-<h3 align="center">Java Developer, content creator, fitness lover and wanderlust</h3>
+<h3 align="center">Java Developer as Tech Lead in Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , content creator, fitness lover and wanderlust</h3>
 
 🔭 Currently learning Spring boot 🍃 and working 🧑‍💻 on amazing UI! ⚛️
 

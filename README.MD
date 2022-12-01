@@ -1,4 +1,4 @@
-<h1 align="center">What's going on?! 👋 Josh here 👇</h1>
+<h1 align="center">Hola 👋 soy José 👇</h1>
 <h3 align="center">Java Developer, content creator, fitness lover and wanderlust</h3>
 
 🔭 Currently learning Spring boot 🍃 and working 🧑‍💻 on amazing UI! ⚛️

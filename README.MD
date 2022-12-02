@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋 soy José 👇</h1>
-<h3 align="center">Tech Lead in Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , content creator, fitness lover and wanderlust</h3>
+<h3 align="center">Tech Lead in Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 🔭 Currently learning Spring boot 🍃 and working 🧑‍💻 on amazing UI! ⚛️
+      content creator, fitness lover and wanderlust
 
 <img align="right" alt="image" width="200" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 

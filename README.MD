@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy José 👇</h1>
-<h3 align="center">Tech Lead in Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">Tech Lead en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 🔭 Aprendiendo Spring boot 🍃 en Oracle Next Education 🧑‍💻 creo UI increibles! ⚛️
       me gusta la Realidad Aumentada y los 3D e-commerce

@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qajosep&show_icons=true&locale=en&layout=compact" alt="qajosep" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qajosep&show_icons=true&locale=en" alt="qajosep" /></p>
+
+<img align="center" alt="image" width="400" src="https://giphy.com/gifs/react-ecommerce-javascript-DIXrbfrSxYnkyzIw5P"/>

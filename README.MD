@@ -20,8 +20,6 @@
 <br>
 <img align="center" alt="image" src="https://media.giphy.com/media/Vz655RAnxuDJizA6GW/giphy.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qajosep&show_icons=true&locale=en&layout=compact" alt="qajosep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qajosep&show_icons=true&locale=en" alt="qajosep" /></p>
 
 

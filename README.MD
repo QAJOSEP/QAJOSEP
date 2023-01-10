@@ -2,7 +2,7 @@
 <h3 align="center">Tech Lead en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 🔭 Aprendiendo Spring boot 🍃 en <b>Oracle Next Education</b> 🧑‍💻 creo UI increibles! ⚛️
-      me gusta la Realidad Aumentada y los 3D e-commerce
+      manejo <b>Spring Boot, Django, NextJS, TypeScript, Tailwind y Material UI</b>
 
 <img align="right" alt="image" width="200" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 

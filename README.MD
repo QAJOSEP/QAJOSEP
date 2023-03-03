@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy José 👇</h1>
-<h3 align="center">Tech Lead en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">Java Dev en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 🔭 Aprendiendo Spring boot 🍃 en <b>Oracle Next Education</b> 🧑‍💻 creo UI increibles! ⚛️
       manejo <b>Spring Boot</b>, Java, <b>Django</b>, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>

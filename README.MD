@@ -18,7 +18,7 @@
 
 <span align="center">E-commerce con NextJs, TypeScript, Tailwind y Spring boot</span>
 <br>
-<img align="center" alt="image" src="[https://media.giphy.com/media/Vz655RAnxuDJizA6GW/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif)"/>
+<img align="center" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
 
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy José 👇</h1>
 <h3 align="center">Java Dev en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-🔭 Java BackEnd 🍃 en <b>Oracle Next Education</b> 🧑‍💻 UI  ⚛️
+🔭 Aprendí Java BackEnd 🍃 en <b>Oracle Next Education Alura</b> 🧑‍💻 UI  ⚛️
       manejo <b>Spring Boot</b>, Java, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>
 
 <img align="right" alt="image" width="200" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>

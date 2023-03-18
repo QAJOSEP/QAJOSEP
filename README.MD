@@ -9,7 +9,7 @@
   
 </div>
 
-🔭 Aprendí Java BackEnd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en <b>Oracle Next Education Alura</b> manejo <b>Spring Boot</b>, Java, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>
+🔭 Aprendí Java BackEnd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en <b>Oracle Next Education Alura</b> manejo <b>Spring Boot</b>🍃, Java, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

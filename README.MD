@@ -3,7 +3,7 @@
   
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Hola!%20Soy%20José&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>-->
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hola+👋,+soy+José+Pillado;+Java+developer+;+...checa+mis+proyectos+👇" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hola+👋,+soy+José+Pillado;+Java+developer+BackEnd+;+...checa+mis+proyectos+👇" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=QAJOSEP&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/QAJOSEP?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/QAJOSEP?style=social)
   

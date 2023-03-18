@@ -5,7 +5,7 @@
 <img width="860" height="660" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Clon%20de%20Amazon&fontSize=20&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Clon%20de%20Amazon&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 </br>
 

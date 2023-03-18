@@ -1,3 +1,5 @@
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>-->
+
 <h1 align="center">Hola 👋 soy José 👇</h1>
 <h3 align="center">Java Dev en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 

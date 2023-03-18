@@ -1,14 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hola+👋+soy+José+Pillado;+🔭aprendí+Java+BackEnd+en+;+Oracle+Alura+;+checa+mis+proyectos+👇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2000&pause=1500&color=blue&multiline=false&width=460&height=60&lines=Hola+👋+soy+José+Pillado;+🔭aprendí+Java+BackEnd+;+en+⭕+Oracle+|+Alura+Latam+;+checa+mis+proyectos+👇" alt="Typing SVG" /></a>
   
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Ecommerce&fontSize=20&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <div align="center">
 <img align="center" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
 
 </div>
+</br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Clon%20de%20Amazon&fontSize=20&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 </br>
 <div align="center">
 

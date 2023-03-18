@@ -1,15 +1,15 @@
+
 <div align="center">
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>--> 
+  
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Hola!%20Soy%20José&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>-->
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hola+👋,+soy+José+Pillado;+Java+developer+;+...checa+mis+proyectos+👇" alt="Typing SVG" /></a>
+
+![](https://komarev.com/ghpvc/?username=QAJOSEP&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/QAJOSEP?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/QAJOSEP?style=social)
+  
 </div>
-<h1 align="center">Hola 👋 soy José 👇</h1>
-<h3 align="center">Java Dev en Tech Mahindra <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-🔭 Aprendí Java BackEnd 🍃 en <b>Oracle Next Education Alura</b> 🧑‍💻 UI  ⚛️
-      manejo <b>Spring Boot</b>, Java, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>
-
-<img align="right" alt="image" width="200" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qajosep&label=Profile%20views&color=0e75b6&style=flat" alt="qajosep" /> </p>
+🔭 Aprendí Java BackEnd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en <b>Oracle Next Education Alura</b> manejo <b>Spring Boot</b>, Java, NextJS, <b>TypeScript</b>, Tailwind y <b>Material UI</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,6 +9,13 @@
 
 </br>
 
+<img width="auto" height="auto" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiNGIzOTc4OTZmNTQxM2E0YmEwYzUwODZkMGNjNzY4N2M3NDQ1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vY42dHxBnJubvgb7aE/giphy.gif)"/>
+</br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Hotel%20de%20Alura&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+</br>
+
 ![](https://komarev.com/ghpvc/?username=QAJOSEP&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/QAJOSEP?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/QAJOSEP?style=social)
 
 </div>

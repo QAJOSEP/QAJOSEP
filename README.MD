@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1500&color=blue&multiline=false&width=660&height=120&lines=Hola+👋+soy+José+Pillado;+🔭+aprendí+Java+BackEnd+;+en+⭕+Oracle+|+Alura+Latam+;+checa+mis+proyectos+👇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1500&color=blue&multiline=false&width=660&height=120&lines=👋+soy+José+Pillado;+🔭+Arquitecto+de+Soluciones+;+en+☕+Java+;+checa+mis+proyectos+👇" alt="Typing SVG" /></a>
 
 <img width="auto" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
 </br>

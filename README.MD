@@ -2,14 +2,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1500&color=blue&multiline=false&width=660&height=120&lines=👋+soy+José+Pillado;+🔭+Arquitecto+de+Soluciones+;+en+☕+Java+;+checa+mis+proyectos+👇" alt="Typing SVG" /></a>
 
-<img width="auto" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
 </br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Clon%20de%20Amazon&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 </br>
 
-<img width="auto" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiNGIzOTc4OTZmNTQxM2E0YmEwYzUwODZkMGNjNzY4N2M3NDQ1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vY42dHxBnJubvgb7aE/giphy.gif"/>
+<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJiNGIzOTc4OTZmNTQxM2E0YmEwYzUwODZkMGNjNzY4N2M3NDQ1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vY42dHxBnJubvgb7aE/giphy.gif"/>
 </br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Hotel%20Alura&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)

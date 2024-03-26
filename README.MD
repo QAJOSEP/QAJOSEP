@@ -5,7 +5,7 @@
 <img width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjeHlsaWRmdjh3ZW9meTY1bGZuaHY2NHllbDQydnoydDdhZXVjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGWGaZdsudy1bUThqO/giphy.gif"/>
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&width=50&section=header&text=Flappy%20Bird%20Emule&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&width=25&section=header&text=Flappy%20Bird%20Emule&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </br>
 
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MWYzYzFmY2UzYjQ5MjRkNTAxZDQ2NDdkZDllMTJiZjdlOTRiNSZjdD1n/jSUfGoWKZcVVnxJIq2/giphy.gif"/>
